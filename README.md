@@ -38,5 +38,5 @@ https://fintech.tinkoff.ru/study/fintech/
 + Дальнейшие Шаги
 
  - [  ] reactjs
- + [  ] redux
+ - [  ] redux
 
