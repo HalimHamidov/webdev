@@ -25,17 +25,17 @@ https://fintech.tinkoff.ru/study/fintech/
  - [x] HTML 5
  - [x] CSS 3
  - [x] Javascript
-+ jQuery
-+ Bootstrap 4
-+ Wordpress
-+ PHP
-+ MySQL
-+ API
-+ Мобильные Приложения
-+ Специальные Возможности HTML 5 & CSS 3
-+ Python
-+ Бонусный Раздел: Копия Twitter с Использованием MVC
-+ Дальнейшие Шаги
+- [ ] jQuery
+- [ ] Bootstrap 4
+- [ ] Wordpress
+- [ ] PHP
+- [ ] MySQL
+- [ ] API
+- [ ] Мобильные Приложения
+- [ ] Специальные Возможности HTML 5 & CSS 3
+- [ ] Python
+- [ ] Бонусный Раздел: Копия Twitter с Использованием MVC
+- [ ] Дальнейшие Шаги
 
  - [ ] reactjs
  - [ ] redux
