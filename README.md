@@ -40,3 +40,18 @@ https://fintech.tinkoff.ru/study/fintech/
  - [ ] reactjs
  - [ ] redux
 
+
+***********
+## Web Dev Simplified
+
++ My Blog: https://blog.webdevsimplified.com
++ My Courses: https://courses.webdevsimplified.com
++ Patreon: https://www.patreon.com/WebDevSimplified
++ Twitter: https://twitter.com/DevSimplified
++ Discord: https://discord.gg/7StTjnR
++ GitHub: https://github.com/WebDevSimplified
++ CodePen: https://codepen.io/WebDevSimplified
++ Youtube: https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw
+
+
+_#TicTacToe #WDS #JavaScript_
