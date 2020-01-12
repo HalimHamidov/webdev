@@ -37,6 +37,6 @@ https://fintech.tinkoff.ru/study/fintech/
 + Бонусный Раздел: Копия Twitter с Использованием MVC
 + Дальнейшие Шаги
 
- * [  ] reactjs
- * [  ] redux
+ - [  ] reactjs
+ + [  ] redux
 
