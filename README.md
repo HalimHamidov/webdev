@@ -22,9 +22,9 @@ https://fintech.tinkoff.ru/study/fintech/
 
 Материалы курса
 + Введение и Настройка
-[x] HTML 5
-[x] CSS 3
-[x] Javascript
+ - [x] HTML 5
+ - [x] CSS 3
+ - [x] Javascript
 + jQuery
 + Bootstrap 4
 + Wordpress
@@ -37,6 +37,6 @@ https://fintech.tinkoff.ru/study/fintech/
 + Бонусный Раздел: Копия Twitter с Использованием MVC
 + Дальнейшие Шаги
 
-[  ] reactjs
-[  ] redux
+ * [  ] reactjs
+ * [  ] redux
 
