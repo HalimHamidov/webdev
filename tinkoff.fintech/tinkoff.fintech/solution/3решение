@@ -1,0 +1,19 @@
+s = "hesdsfhdhdDss1dgs";
+
+const isContainsNumber = s => {
+  let contaisNumbers = false;
+  [...s].forEach(char => {
+    if ("0123456789".includes(char))
+    {
+      contaisNumbers = true;
+    }
+  })
+  return contaisNumbers;
+}
+
+if (s !== s.toLowerCase()
+    && s.length > 8
+    && isContainsNumber(s))
+  console.log('yes');
+else
+  console.log('no')
